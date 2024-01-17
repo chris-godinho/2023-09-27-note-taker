@@ -8,7 +8,7 @@ An application for taking and saving notes.
 
 ## Installation
 
-No installation is necessary for this application. A live page can be accessed at <https://immense-brook-26564-3b2b5bd98ff7.herokuapp.com/>.
+No installation is necessary for this application. A live page can be accessed at <https://note-taker-enzb.onrender.com/> (Please note that Render's free tier spindown will cause loading to take a couple of minutes the first time).
 
 ## How can I Contribute?
 
